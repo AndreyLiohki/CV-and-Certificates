@@ -27,7 +27,7 @@ Hi, my name is Andrey Liohki. I'm a student of the Faculty of Applied Mathematic
     - Creative
     - Easy to learn
 
-### Quote
+### My motto
 _"be where your heart beats"_
   
     
