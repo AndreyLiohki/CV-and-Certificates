@@ -18,7 +18,7 @@ Hi, my name is Andrey Liohki. I'm a student of the Faculty of Applied Mathematic
     - Probability theory and mathematical statistics
     - Automata theory
 * Git, GitHub, GitLab
-* English (B1)
+* English (B2)
 * Deutsch (A2)
 * Soft Skills
     - Problem solving
