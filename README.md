@@ -28,6 +28,6 @@ Hi, my name is Andrey Liohki. I'm a student of the Faculty of Applied Mathematic
     - Easy to learn
 
 ### Quote
-* * "be where your heart beats" * *
+_ _ "be where your heart beats" _ _
   
     
