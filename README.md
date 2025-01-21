@@ -3,7 +3,7 @@ Hi, my name is Andrey Liohki. I'm a student of the Faculty of Applied Mathematic
 
 ### My skill 
 
-* Java
+* Java (Intermediate)
     - Object-oriented programming
     - Basics of the language
     - Spring
