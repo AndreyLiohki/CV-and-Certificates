@@ -6,9 +6,9 @@ Hi, my name is Andrey Liohki. I'm a student of the Faculty of Applied Mathematic
 * Java (Intermediate)
     - Object-oriented programming
     - Basics of the language
-    - Spring
-    - Hibernate
-    - JUnit
+    - Spring (Pre-Intermediate)
+    - Hibernate (Pre-Intermediate)
+    - JUnit (Pre-Intermediate)
     - Mockito
     - Multithreading
 * Mathematics
